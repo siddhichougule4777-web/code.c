@@ -26,7 +26,7 @@ public:
 };
 
 int main() {
-    Fraction f1(1, 2), f2(3, 4);
+    Fraction f1(5, 2), f2(7, 4);
 
     Fraction sum = f1.add(f2);
     Fraction diff = f1.subtract(f2);
